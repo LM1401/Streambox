@@ -1,3 +1,0 @@
-private fun getMockMovies(): List<TmdbMovie> {
-        return MockMovieData.getMockMovies()
-    }
